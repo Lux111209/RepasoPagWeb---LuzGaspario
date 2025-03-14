@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f9;
+    background-color: #e6e6ff;
     margin: 0;
     padding: 0;
     display: flex;
@@ -25,12 +25,12 @@ input {
     width: 200px;
     padding: 10px;
     margin: 10px 0;
-    border: 1px solid #ccc;
+    border: 1px solid #c7c7c7;
     border-radius: 5px;
 }
 
 button {
-    background-color: #007BFF;
+    background-color: #004794;
     color: white;
     padding: 10px 15px;
     border: none;
@@ -39,10 +39,10 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #1e61a8;
 }
 
 p {
     font-size: 1.2em;
-    color: #007BFF;
+    color: #004794;
 }
